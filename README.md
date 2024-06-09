@@ -1,2 +1,1 @@
-# goit-js-hw-05
-Homework 5 of JavaScript Fundamentals: From Basics to Advanced Concepts course
+GitHub Pages: https://gloomcat.github.io/goit-js-hw-05
